@@ -1,6 +1,6 @@
 console.log("hi");
 
-function sum(a, b){
+function add(a, b){
     return a + b
 }
 
